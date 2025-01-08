@@ -1,6 +1,6 @@
 ## Hi, I'm Darllyson! 👋
 
-I'm a self-taught programmer currently studying Systems Analysis and Development, and I'm also taking a Fullstack JavaScript course at OneBitCode. Originally from Fortaleza, Ceará, I’m passionate about programming and believe it’s my true calling. I feel like I was born to solve problems through code and technology.
+I'm a self-taught programmer currently studying Systems Analysis and Development, and I'm also taking a Fullstack JavaScript course at [OneBitCode](https://www.instagram.com/onebitcode/). Originally from Fortaleza, Ceará, I’m passionate about programming and believe it’s my true calling. I feel like I was born to solve problems through code and technology.
 
 I have a technical degree in IT, completed between 2013 and 2015, where I was first introduced to programming and started diving into the world of coding. At the moment, I work as an Administrative Assistant, but I’m actively seeking a position in the tech industry where I can apply my skills and grow professionally. 
 
